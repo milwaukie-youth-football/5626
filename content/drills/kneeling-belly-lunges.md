@@ -2,8 +2,7 @@
 title: Kneeling Belly Lunges
 ---
 
-Tackling precept drill. No live contact.
+Tackling precept drill. No partner, no pads.
 
-- Pairs kneel facing each other.
-- On the whistle, lunge forward driving hips and a head-up strike position into a shield/pad held by the partner.
-- Teaches hip snap and head placement safely, with no live collision.
+- Start from a kneeling position.
+- Lunge forward and land on your belly, on the ground or on a pad.

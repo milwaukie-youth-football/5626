@@ -42,7 +42,6 @@ Reference video: "Football Conditioning Workout - 20 Football Exercises to make 
   - Spiderman Wall
 - Lunge (out and back)
 - Sprint (out, jog back)
-- Grant Special (coach's choice — kids must work hard, not stand around)
 
 ## Stations
 

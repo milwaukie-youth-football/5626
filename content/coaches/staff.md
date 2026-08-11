@@ -1,5 +1,5 @@
 ---
-title: Coaches
+title: Staff
 ---
 
 ## 5/6 Senior Tackle Staff

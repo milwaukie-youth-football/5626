@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: MHS Youth Football 5/6
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+![[mhs-youth-football-logo.png]]
+
+Coach-facing site for the Milwaukie Youth Football & Cheer **5/6 Senior Tackle** team. This is where we keep the stuff coaches actually need day to day: the [[coaches/index|coaching staff]] and their contacts, [[defense/index|defense]] position breakdowns, [[offense/index|offense]] plays and playbook, [[drills/index|drills]] and conditioning work, and dated [[practice/index|practice plans]].
+
+Not a public fan site — it's our shared coaching reference.

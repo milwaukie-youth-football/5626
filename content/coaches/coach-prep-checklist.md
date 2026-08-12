@@ -28,6 +28,15 @@ MYF Coach Prep — 2026 Season (from Colin Schaeffer)
    - Free options: firstaidforfree.com or nationalcprfoundation.com
    - Send cert to: **mustang.fc.registrar@gmail.com**
 
+## SportsEngine
+
+TVYFL/MYF's registration and membership platform — coach registration, background checks, and the org site all run through it.
+
+- Login / account portal: https://my.sportngin.com/user/household
+- Org site: https://milwaukiefootball.sportngin.com
+- Mobile app: SportsEngine app (team schedules and alerts)
+- Emails come from `no-reply@mailer.sportsengine.com` / `no-reply@mailer-h.sportsengine.com`
+
 ## Notes
 - New coaches: contact president/registrar before equipment checkout.
 - All coaches must attend one coach training session and the 8/5 coaches meeting.

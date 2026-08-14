@@ -2,6 +2,10 @@
 title: Offense
 ---
 
+## Playbook
+
+- [[Playbook]] — download the full playbook PDF
+
 ## Formations
 
 - [[Maroon]] — GG4, 2 backs in the backfield

@@ -13,7 +13,7 @@ Maroon QB Counter(GT)
 - **Y**: BT and BG both pull away from him, so he protects the gap they vacate — steps down inside, seals it, doesn't let anyone spill through behind the pullers.
 - **BT**: Pulls. Second puller — wraps up through the hole to the backside linebacker.
 - **BG**: Pulls. First puller — kicks out the EMOL DE.
-- **C**: Down blocks the DT.
+- **C**: Down blocks the DT nearest BG, on the backside.
 - **FG**: Double teams the playside DT with FT, then climbs or stays depending on which one releases.
 - **FT**: Double teams the playside DT with FG, then one of them climbs to the backside linebacker.
 - **Q**: Fakes the handoff to H and F, then counters back, keeps the ball, and follows BG's kick and BT's wrap through the hole.

@@ -4,6 +4,6 @@ title: MHS Youth Football 5/6
 
 ![[mhs-youth-football-logo.png]]
 
-Coach-facing site for the Milwaukie Youth Football & Cheer **5/6 Senior Tackle** team. This is where we keep the stuff coaches actually need day to day: the [[coaches/index|coaching staff]] and their contacts, [[defense/index|defense]] position breakdowns, [[offense/index|offense]] plays and playbook, [[drills/index|drills]] and conditioning work, and dated [[practice/index|practice plans]].
+Coach-facing site for the Milwaukie Youth Football & Cheer **5/6 Senior Tackle** team. This is where we keep the stuff coaches actually need day to day: the [[coaches/index|coaching staff]] and their contacts, [[defense/index|defense]] position breakdowns, [[offense/index|offense]] plays and playbook, [[drills/index|drills]] and conditioning work, dated [[practice/index|practice plans]], and the [[jamboree|jamboree]] schedule.
 
 Not a public fan site — it's our shared coaching reference.

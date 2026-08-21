@@ -88,9 +88,9 @@ title: Defense Positions
 
 **Man coverage** — His guy is always someone in the backfield, which is how we keep him in the middle.
 
-**Blitz** — On my call from the sideline. Signal: **both hands, pistols in the air.** He blitzes the backside A gap.
+**Blitz** — On my call from the sideline. Signal: **both hands, pistols in the air.** He blitzes through the backside A gap. NT still takes the strength A gap — nobody's assignment changes on the blitz call, Mike just attacks instead of reading.
 
-**Captain duties** — Calls the strength of the offense: *"strong left," "strong right."* Rule at this level: whichever side has more kids.
+**Captain duties** — Calls the strength of the offense **every play**: *"strong left," "strong right."* Rule at this level: whichever side has more kids.
 
 **The cue** — Mostly about helping everyone else line up.
 
@@ -166,6 +166,8 @@ Bring the **CB from the backside across to take #2.** Then:
 **Depth** — 10-12 yards.
 
 **Coverage** — **Almost always free.** No man.
+
+**Headcount** — While the offense huddles, before every play: count the 10 players plus himself. If it's not 10, get the coach's attention to fix the substitution.
 
 ### Alignment by formation
 

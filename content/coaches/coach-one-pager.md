@@ -31,8 +31,8 @@ Kids learn these words, not schemes.
 
 | Word | What the kid does |
 |---|---|
-| `gap` | Block the man in the gap to my playside. First thing I look for. |
-| `down` | No gap threat. Block the man inside me, on the next guy over. |
+| `gap` | The space between two OL. Not an action — used pre-snap to ID whether a DL or LB is lined up in it. |
+| `down` | Block your backside gap. Base assignment, every gap-scheme play, unless the call has you doubling. |
 | `buddy` | Double team with the man next to me, then one of us climbs. |
 | `backer` | Nobody down to block. Climb to the linebacker. |
 | `pin` | I'm covered playside. Block him down and in. Don't let him cross my face. |

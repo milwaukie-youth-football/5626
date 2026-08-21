@@ -65,6 +65,8 @@ Coach is calling a different play from the sideline, because he saw something an
 
 ## H (RB)
 
+**Headcount**: in the huddle, every play, count the players. If it's not 10 plus him, get the coach's attention to fix the substitution.
+
 **Ball security**: hold your elbow closest to the QB up and out of the way; the far elbow stays down. Never reach for the ball.
 
 **Handoff**: the QB places the ball in your belly. Squeeze down with your top/inside arm and hand, and squeeze up with your bottom/outside arm and hand.
@@ -83,17 +85,35 @@ Coach is calling a different play from the sideline, because he saw something an
 
 **Line of scrimmage**: always on the line. Check with the referee, thumb up, to confirm you're not over the LOS and not too far off it.
 
+**Split**: halfway between the FT (field tackle) and Z.
+
 ---
 
 ## Z
 
 **Line of scrimmage**: off the LOS. Put a hand back to show the ref you're off the line.
 
+**Split**: set by where the ball is, same logic as Field Right/Left.
+
+| Ball position | Split |
+|---|---|
+| On a hash | Between the far hash and the bottom of the far numbers |
+| Middle of the field | Bottom of the far numbers |
+
+**Depth**: one yard back and one yard inside of X — close enough to touch his shoulder.
+
 ---
 
 ## F
 
 **Line of scrimmage**: when in [[offense/formations/gold|Gold]], off the LOS. Put a hand back to show the ref you're off the line.
+
+**Where F lines up**: the spot changes completely by formation — in [[offense/formations/maroon|Maroon]] he's a second back next to H, in [[offense/formations/gold|Gold]] he's a receiver next to X.
+
+| Formation | Where F lines up |
+|---|---|
+| [[offense/formations/maroon\|Maroon]] | Backfield, next to H — same depth, close enough to touch his shoulder |
+| [[offense/formations/gold\|Gold]] | One yard off the LOS, one yard inside of X — close enough to touch his shoulder |
 
 ---
 
@@ -108,3 +128,23 @@ Coach is calling a different play from the sideline, because he saw something an
 **Pulls and combos**: which side pulls or combos comes from playside/backside relative to the called direction (field or boundary), not from a fixed name. Sweep to the field: the field-side linemen pull. Counter into the boundary: the boundary-side linemen pull. The letter tells you where you line up. The call tells you what you do.
 
 **Heads up**: field/boundary can flip between plays depending on where the last one ended, not on the play call itself. Check which side you're on before every snap.
+
+### BT (Boundary Tackle)
+
+**Alignment**: On the line, outside the BG, boundary side. [[offense/positions#Y|Y]] attaches outside of him, into the boundary.
+
+### BG (Boundary Guard)
+
+**Alignment**: On the line, outside the Center, boundary side.
+
+### C (Center)
+
+**Alignment**: On the line, over the ball. Snaps to the QB.
+
+### FG (Field Guard)
+
+**Alignment**: On the line, outside the Center, field side.
+
+### FT (Field Tackle)
+
+**Alignment**: On the line, outside the FG, field side. X splits halfway between him and Z.

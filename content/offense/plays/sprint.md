@@ -4,7 +4,7 @@ title: Sprint
 
 Concept: SPRINT — gap-on-linebacker. Terms: [[coaches/coach-one-pager|coach one-pager]].
 
-Default is the handoff — Q only keeps and runs it himself if the coach signals it.
+Designed QB run — no handoff, no pass option. Q always keeps and runs it. Either F or Z must crack block the DE.
 
 ## Maroon
 

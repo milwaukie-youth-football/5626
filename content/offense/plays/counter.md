@@ -2,7 +2,7 @@
 title: Counter
 ---
 
-Guard-tackle (GT) counter — Q keeps, guard and tackle pull.
+Concept: GT COUNTER — Q keeps, guard and tackle pull. Terms: [[coaches/coach-one-pager|coach one-pager]].
 
 ## Maroon
 

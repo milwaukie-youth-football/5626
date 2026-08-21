@@ -2,7 +2,9 @@
 title: Duo
 ---
 
-OL rule: `gap` → `down` → `buddy` → `backer`, in that order, every man, every time. See [[coaches/coach-one-pager|coach one-pager]].
+Concept: DUO — `gap` → `down` → `buddy` → `backer`, in that order, every man, every time. Terms: [[coaches/coach-one-pager|coach one-pager]].
+
+Default is the handoff to H — F's bubble is only thrown if the coach signals it.
 
 ## Maroon
 

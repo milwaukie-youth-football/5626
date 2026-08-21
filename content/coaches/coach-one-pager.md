@@ -39,7 +39,7 @@ Kids learn these words, not schemes.
 | `pull` | I'm uncovered. Leave, run flat, get outside. |
 | `kick` | First puller. Blow the outside man OUT. |
 | `wrap` | Second puller. Turn up inside the kick, hit the first wrong color. |
-| `scoop` | Backside. Cut him off, don't let him chase. |
+| `scoop` | Backside. Cut him off, don't let him chase. One blocker, not a combo — if you've coached zone, this isn't that. |
 | `trap` | Leave the man outside me alone. Someone is coming to kick him. |
 | `reach` | Man is head up on me. Get to his outside and turn him. |
 

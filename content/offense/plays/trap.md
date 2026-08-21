@@ -6,12 +6,12 @@ Playside guard `trap`, backside guard `pull` and `kick`, center `scoop`. See [[c
 
 ## Maroon
 
-GG4 (21P) T TRAP / F Bubble vs 4-4
+Maroon H Trap / F Bubble
 
 ![[trap-maroon.png]]
 
 ## Gold
 
-NUB TRIPS (11P) T TRAP / Q Keep vs 4-4
+Gold H Trap / QB Keep
 
 ![[trap-gold.png]]

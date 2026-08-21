@@ -6,12 +6,12 @@ Pin-and-pull. Covered `pin`, uncovered `pull`. First puller `kick`, second `wrap
 
 ## Maroon
 
-GG4 (21P) F Sweep / X Bubble vs 4-4
+Maroon F Sweep X Bubble
 
 ![[sweep-maroon.png]]
 
 ## Gold
 
-NUB TRIPS (11P) T Sweep / F Bubble vs 4-4
+Gold H Sweep F Bubble
 
 ![[sweep-gold.png]]

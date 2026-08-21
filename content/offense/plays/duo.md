@@ -6,12 +6,12 @@ OL rule: `gap` → `down` → `buddy` → `backer`, in that order, every man, ev
 
 ## Maroon
 
-GG4 (21P) T DUO / F Bubble vs 4-4
+Maroon H Duo / F Bubble
 
 ![[duo-maroon.png]]
 
 ## Gold
 
-NUB TRIPS (11P) T DUO / F Bubble vs 4-4
+Gold H Duo / F Bubble
 
 ![[duo-gold.png]]

@@ -4,12 +4,12 @@ title: Snag
 
 ## Maroon
 
-GG4 (21P) Snag vs 4-4
+Maroon Snag
 
 ![[snag-maroon.png]]
 
 ## Gold
 
-NUB TRIPS (11P) Snag vs 4-4
+Gold Snag
 
 ![[snag-gold.png]]

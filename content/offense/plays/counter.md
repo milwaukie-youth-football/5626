@@ -6,12 +6,12 @@ Guard-tackle (GT) counter — Q keeps, guard and tackle pull.
 
 ## Maroon
 
-GG4 (21P) Q Counter(GT) vs 4-4
+Maroon QB Counter(GT)
 
 ![[counter-maroon.png]]
 
 ## Gold
 
-NUB TRIPS (11P) QB Counter(GT) vs 4-4
+Gold QB Counter(GT)
 
 ![[counter-gold.png]]

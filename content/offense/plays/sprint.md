@@ -6,6 +6,8 @@ Concept: SPRINT — gap-on-linebacker. Terms: [[coaches/coach-one-pager|coach on
 
 Designed QB run — no handoff, no pass option. Q always keeps and runs it. Either F or Z must crack block the DE.
 
+**Coaching note — crack block legality:** NFHS has no "crackback" rule by that name; this block is governed by the blindside block rule (2-3-10, enforced 9-4-3n). F/Z are receivers, not linemen, so they get none of the free-blocking-zone exceptions — this must not be a blindside hit on a DE who doesn't see it coming. Coach the technique: get into the DE's frame before contact, initiate with open hands, no launching into him from an angle he can't see. Blindside contact draws a 15-yard personal foul.
+
 ## Maroon
 
 Maroon ZMO QB Sprint

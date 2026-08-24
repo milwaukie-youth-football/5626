@@ -8,7 +8,13 @@ Concept: SWEEP — pin-and-pull. Covered `pin`, uncovered `pull`. First puller `
 
 Maroon F Sweep X Bubble
 
-![[sweep-maroon.png]]
+### Field Left
+
+![[sweep-maroon-left.png]]
+
+### Field Right
+
+![[sweep-maroon-right.png]]
 
 - **Y**: Exception to the OL rule — if he can reach block the EMOL with an outside shade, he does that instead. If not, the same pull rule applies to him too.
 - **BT / BG / C / FG / FT**: Check your backside gap. Someone there? Down block him. Nobody there? You pull. First one out kicks the first different-colored jersey outside. Second one out wraps around him and cuts off whatever pursuit shows next.
@@ -22,7 +28,13 @@ Maroon F Sweep X Bubble
 
 Gold H Sweep F Bubble
 
-![[sweep-gold.png]]
+### Field Left
+
+![[sweep-gold-left.png]]
+
+### Field Right
+
+![[sweep-gold-right.png]]
 
 Everyone does the exact same job as Maroon on the OL — Y and BT, BG, C, FG, FT are unchanged. Z is also unchanged.
 

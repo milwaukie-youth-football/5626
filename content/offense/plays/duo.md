@@ -10,7 +10,13 @@ Default is the handoff to H — F's bubble is only thrown if the coach signals i
 
 Maroon H Duo / F Bubble
 
-![[duo-maroon.png]]
+### Field Left
+
+![[duo-maroon-left.png]]
+
+### Field Right
+
+![[duo-maroon-right.png]]
 
 Against a 4-man front this comes out to two clean double teams: BT+BG on the boundary DT, C+FG on the field DT. Y and FT aren't part of either double — they take the two EMOL/DEs on their outside shade instead.
 
@@ -30,7 +36,13 @@ Against a 4-man front this comes out to two clean double teams: BT+BG on the bou
 
 Gold H Duo / F Bubble
 
-![[duo-gold.png]]
+### Field Left
+
+![[duo-gold-left.png]]
+
+### Field Right
+
+![[duo-gold-right.png]]
 
 Everyone does the exact same job as Maroon — Y, BT, BG, C, FG, FT, Q, H, X, and Z are unchanged. F's job doesn't even change here, just his starting point.
 

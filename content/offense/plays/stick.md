@@ -8,7 +8,13 @@ Concept: STICK — quick-game pass, uses the SLANTS protection rule. Terms: [[co
 
 Maroon Stick
 
-![[stick-maroon.png]]
+### Field Left
+
+![[stick-maroon-left.png]]
+
+### Field Right
+
+![[stick-maroon-right.png]]
 
 - **Y**: Runs a 5-yard out, pulling up at the sidewalk instead of running out of bounds.
 - **BT / BG / C / FG / FT**: Pass block. Man on you, punch and sit. Nobody on you, help the man next to you toward the middle.
@@ -24,7 +30,13 @@ Note: this play can also be called max protect, keeping Y and H in to pass block
 
 Gold Stick
 
-![[stick-gold.png]]
+### Field Left
+
+![[stick-gold-left.png]]
+
+### Field Right
+
+![[stick-gold-right.png]]
 
 Everyone does the exact same job as Maroon — Y, BT, BG, C, FG, FT, Q, H, X, and Z are unchanged.
 

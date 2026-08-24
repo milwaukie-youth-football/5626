@@ -12,7 +12,13 @@ Designed QB run — no handoff, no pass option. Q always keeps and runs it. Eith
 
 Maroon ZMO QB Sprint
 
-![[sprint-maroon.png]]
+### Field Left
+
+![[sprint-maroon-left.png]]
+
+### Field Right
+
+![[sprint-maroon-right.png]]
 
 - **Y**: Blocks the backside EMOL/DE, protects the edge away from the sprint.
 - **BT / BG / C / FG / FT**: Gap-on-linebacker. Man in the gap away from the play, down block him. Man on you head up, reach and turn him. Nobody on you, climb and cut off a linebacker you can reach, usually the one further away.
@@ -26,7 +32,13 @@ Maroon ZMO QB Sprint
 
 Gold QB Sprint
 
-![[sprint-gold.png]]
+### Field Left
+
+![[sprint-gold-left.png]]
+
+### Field Right
+
+![[sprint-gold-right.png]]
 
 - **Q**: No motion call needed — F is already aligned to crack. Keeps and sprints out around the perimeter behind H.
 - **Y / BT / BG / C / FG / FT / H / X**: Unchanged from Maroon.

@@ -8,7 +8,13 @@ Concept: GT COUNTER — Q keeps, guard and tackle pull. Terms: [[coaches/coach-o
 
 Maroon QB Counter(GT)
 
-![[counter-maroon.png]]
+### Field Left
+
+![[counter-maroon-left.png]]
+
+### Field Right
+
+![[counter-maroon-right.png]]
 
 - **Y**: BT and BG both pull away from him, so he protects the gap they vacate — steps down inside, seals it, doesn't let anyone spill through behind the pullers.
 - **BT**: Pulls. Second puller — wraps up through the hole to the backside linebacker.
@@ -26,7 +32,13 @@ Maroon QB Counter(GT)
 
 Gold QB Counter(GT)
 
-![[counter-gold.png]]
+### Field Left
+
+![[counter-gold-left.png]]
+
+### Field Right
+
+![[counter-gold-right.png]]
 
 Everyone does the exact same job as Maroon — Y, BT, BG, C, FG, FT, H, X, and Z are unchanged. Only F is different, because he's a receiver in Gold instead of a second back.
 

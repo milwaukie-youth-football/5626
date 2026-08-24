@@ -8,7 +8,13 @@ Concept: SNAG — quick-game pass, same as Stick with X and Z swapped. Terms: [[
 
 Maroon Snag
 
-![[snag-maroon.png]]
+### Field Left
+
+![[snag-maroon-left.png]]
+
+### Field Right
+
+![[snag-maroon-right.png]]
 
 - **Y**: Runs a 5-yard out, pulling up at the sidewalk instead of running out of bounds.
 - **BT / BG / C / FG / FT**: Pass block. Man on you, punch and sit. Nobody on you, help the man next to you toward the middle.
@@ -24,7 +30,13 @@ Note: this play can also be called max protect, keeping Y and H in to pass block
 
 Gold Snag
 
-![[snag-gold.png]]
+### Field Left
+
+![[snag-gold-left.png]]
+
+### Field Right
+
+![[snag-gold-right.png]]
 
 Everyone does the exact same job as Maroon — Y, BT, BG, C, FG, FT, Q, H, X, and Z are unchanged.
 

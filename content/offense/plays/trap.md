@@ -10,7 +10,13 @@ Default is the handoff to H — F's bubble (Maroon) and Q's keep (Gold) only hap
 
 Maroon H Trap / F Bubble
 
-![[trap-maroon.png]]
+### Field Left
+
+![[trap-maroon-left.png]]
+
+### Field Right
+
+![[trap-maroon-right.png]]
 
 - **Y**: Seals the edge, blocking the playside EMOL/DE.
 - **BT**: Playside — climbs immediately to the playside linebacker, cutting him off.
@@ -28,7 +34,13 @@ Maroon H Trap / F Bubble
 
 Gold H Trap / QB Keep
 
-![[trap-gold.png]]
+### Field Left
+
+![[trap-gold-left.png]]
+
+### Field Right
+
+![[trap-gold-right.png]]
 
 Everyone does the exact same job as Maroon — Y, BT, BG, C, FG, FT, H, X, and Z are unchanged.
 

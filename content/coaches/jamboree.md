@@ -4,6 +4,10 @@ title: Jamboree
 
 **Saturday, August 29** at Clackamas HS.
 
+Arrive at the field by **11:45am**, in pads, cleats, and helmet + mouthpiece on. Meet in the red circle:
+
+![[clackamas-hs-jamboree.png]]
+
 | Time | Matchup | End of field |
 |---|---|---|
 | 1:00–1:45pm | Sandy 5/6 Grey vs. Milwaukie 5/6 Gold | Scoreboard/East |

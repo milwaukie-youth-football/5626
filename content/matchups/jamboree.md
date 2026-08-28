@@ -8,7 +8,7 @@ Arrive at the field by **11:45am**, in pads, cleats, and helmet + mouthpiece on.
 
 | Time | Activity | Location |
 |---|---|---|
-| 11:45am | Arrival — pads, cleats, helmet + mouthpiece on | Red circle (see map below) |
+| 11:45am | Arrival — pads, cleats, helmet + mouthpiece on ([[team/game-day#What players need to bring\|checklist]]) | Red circle (see map below) |
 | 12:00pm | Warmup | Empty grass field north of the stadium |
 | 12:30pm | Weigh-in (30 min before our 1:00pm scrimmage) | TBD |
 

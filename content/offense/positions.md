@@ -121,11 +121,11 @@ Coach is calling a different play from the sideline, because he saw something an
 
 **Alignment, boundary to field**: BT (Boundary Tackle), BG (Boundary Guard), C (Center), FG (Field Guard), FT (Field Tackle). The [[offense/positions#Y (TE)|Y]] attaches outside the BT, into the boundary.
 
-**Why field/boundary, not left/right**: our direction calls are already field/boundary (sweep to the field, duo into the boundary), so naming the line the same way means zero translation between the call and who does what. If the ball is on the middle of the field, it's field right, by rule. No guessing.
+**Why field/boundary, not left/right**: our direction calls are already field/boundary (sweep and duo into the boundary, counter to the field), so naming the line the same way means zero translation between the call and who does what. If the ball is on the middle of the field, it's field right, by rule. No guessing.
 
 **Ready**: get your spacing by touching finger tips with the lineman next to you. Call out your blocks: down blocks, double-teams, pulls, so everyone next to you hears it before the snap.
 
-**Pulls and combos**: which side pulls or combos comes from playside/backside relative to the called direction (field or boundary), not from a fixed name. Sweep to the field: the field-side linemen pull. Counter into the boundary: the boundary-side linemen pull. The letter tells you where you line up. The call tells you what you do.
+**Pulls and combos**: which side pulls or combos comes from playside/backside relative to the called direction (field or boundary), not from a fixed name. Sweep into the boundary: the uncovered boundary-side linemen pull. Counter to the field: the boundary-side guard and tackle pull. The letter tells you where you line up. The call tells you what you do.
 
 **Heads up**: field/boundary can flip between plays depending on where the last one ended, not on the play call itself. Check which side you're on before every snap.
 

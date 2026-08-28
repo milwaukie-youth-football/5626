@@ -92,7 +92,7 @@ The bubble is legal with the line firing out. A pass caught behind the line neve
 ## Defense — 5-3 base man
 
 - Five down, three linebackers, two corners, one safety.
-- **Count the receivers to your side: #1, #2, #3.** You have your number. That's your man.
+- **Count the receivers to your side: \#1, \#2, \#3.** You have your number. That's your man.
 - **Motion: run with him.** He moves, you move. No talking, no switching.
 - **S stays in the middle.** S never chases motion. S is the last guy. His job is to tackle whoever gets through.
 

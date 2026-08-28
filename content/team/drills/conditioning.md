@@ -2,7 +2,7 @@
 title: Conditioning
 ---
 
-Reference video: "Football Conditioning Workout - 20 Football Exercises to make you a BEAST" — our #1 source of conditioning ideas.
+Reference video: "Football Conditioning Workout - 20 Football Exercises to make you a BEAST" — our \#1 source of conditioning ideas.
 
 ## Pre-Practice Stretching
 

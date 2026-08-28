@@ -113,29 +113,29 @@ title: Defense Positions
 | Look | Where he lines up |
 |---|---|
 | **Default / nobody out there** | Stacked directly behind the DE |
-| **There's a #2** | Apex: halfway between the DE and #2 |
-| **Trips (he's got #3)** | Apex: halfway between the DE and #3 |
+| **There's a \#2** | Apex: halfway between the DE and \#2 |
+| **Trips (he's got \#3)** | Apex: halfway between the DE and \#3 |
 | **Nub side** | Apex: inside the DE, halfway to where the TE is lined up |
 
 **He always has inside position.** That's built into how we line him up.
 
-**Man coverage** — He has **#2** to his side.
+**Man coverage** — He has **\#2** to his side.
 
-- If the CB on his side flips away to the trips side, the OLB has **#1** instead. On a nub that's the TE.
+- If the CB on his side flips away to the trips side, the OLB has **\#1** instead. On a nub that's the TE.
 - **Free blitz only when he has no coverage responsibility at all.**
 
 **Run responsibility** — Be aggressive. **Step forward into the gap while it's narrow.** Do not sit and wait. An open-field tackle is much harder than one in a tight space.
 
 ### Trips coverage
 
-Bring the **CB from the backside across to take #2.** Then:
+Bring the **CB from the backside across to take \#2.** Then:
 
 | Receiver | Who has him |
 |---|---|
-| Strong #1 | Strong CB |
-| Strong #2 | Backside CB, travels across |
-| Strong #3 | Strong OLB, apexed between DE and #3 |
-| Backside #1 (the TE on a nub) | Backside OLB — the CB flipped away, so he has #1 now |
+| Strong \#1 | Strong CB |
+| Strong \#2 | Backside CB, travels across |
+| Strong \#3 | Strong OLB, apexed between DE and \#3 |
+| Backside \#1 (the TE on a nub) | Backside OLB — the CB flipped away, so he has \#1 now |
 | Back in the backfield | Mike |
 | — | **S stays free in the middle** |
 
@@ -149,7 +149,7 @@ Bring the **CB from the backside across to take #2.** Then:
 
 **Alignment** — **7 yards off. Outside leverage.**
 
-**Man coverage** — **Take #1.** He moves, you move.
+**Man coverage** — **Take \#1.** He moves, you move.
 
 **Press** — Only when I call for it from the sideline.
 

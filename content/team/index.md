@@ -3,5 +3,8 @@ title: Team
 ---
 
 - [[team/game-day|Game Day]] — equipment checklist and arrival time
-- [2026 TVYFL League Operations Guide (PDF)](./2026-tvyfl-league-operations-guide.pdf)
-- [2026 TVYFL Senior Tackle Rules of Play (PDF)](./2026-tvyfl-senior-tackle-rules-of-play.pdf)
+- [[team/offense/index|Offense]] — formations, plays, playbook
+- [[team/defense/index|Defense]] — 5-3 base and positions
+- [[team/drills/index|Drills]] — station work and conditioning
+- [[team/practice/index|Practice]] — dated practice plans
+- [[team/matchups/index|Matchups]] — Jamboree and game schedule

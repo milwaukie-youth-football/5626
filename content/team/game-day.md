@@ -23,4 +23,4 @@ Meet **1 hour 15 minutes before kickoff**, in pads, cleats, and helmet + mouthpi
 - Sunscreen and layers for the weather
 - Snack/drink for after
 
-See [[coaches/coach-prep-checklist|coach prep checklist]] and [[matchups/jamboree-rules|Jamboree Rules]] for the full league equipment and conduct rules.
+See [[coaches/coach-prep-checklist|coach prep checklist]] and [[team/matchups/jamboree-rules|Jamboree Rules]] for the full league equipment and conduct rules.

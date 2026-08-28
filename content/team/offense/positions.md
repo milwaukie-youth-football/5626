@@ -106,20 +106,20 @@ Coach is calling a different play from the sideline, because he saw something an
 
 ## F
 
-**Line of scrimmage**: when in [[offense/formations/gold|Gold]], off the LOS. Put a hand back to show the ref you're off the line.
+**Line of scrimmage**: when in [[team/offense/formations/gold|Gold]], off the LOS. Put a hand back to show the ref you're off the line.
 
-**Where F lines up**: the spot changes completely by formation — in [[offense/formations/maroon|Maroon]] he's a second back next to H, in [[offense/formations/gold|Gold]] he's a receiver next to X.
+**Where F lines up**: the spot changes completely by formation — in [[team/offense/formations/maroon|Maroon]] he's a second back next to H, in [[team/offense/formations/gold|Gold]] he's a receiver next to X.
 
 | Formation | Where F lines up |
 |---|---|
-| [[offense/formations/maroon\|Maroon]] | Backfield, next to H — same depth, close enough to touch his shoulder |
-| [[offense/formations/gold\|Gold]] | One yard off the LOS, one yard inside of X — close enough to touch his shoulder |
+| [[team/offense/formations/maroon\|Maroon]] | Backfield, next to H — same depth, close enough to touch his shoulder |
+| [[team/offense/formations/gold\|Gold]] | One yard off the LOS, one yard inside of X — close enough to touch his shoulder |
 
 ---
 
 ## OL
 
-**Alignment, boundary to field**: BT (Boundary Tackle), BG (Boundary Guard), C (Center), FG (Field Guard), FT (Field Tackle). The [[offense/positions#Y (TE)|Y]] attaches outside the BT, into the boundary.
+**Alignment, boundary to field**: BT (Boundary Tackle), BG (Boundary Guard), C (Center), FG (Field Guard), FT (Field Tackle). The [[team/offense/positions#Y (TE)|Y]] attaches outside the BT, into the boundary.
 
 **Why field/boundary, not left/right**: our direction calls are already field/boundary (sweep and duo into the boundary, counter to the field), so naming the line the same way means zero translation between the call and who does what. If the ball is on the middle of the field, it's field right, by rule. No guessing.
 
@@ -131,7 +131,7 @@ Coach is calling a different play from the sideline, because he saw something an
 
 ### BT (Boundary Tackle)
 
-**Alignment**: On the line, outside the BG, boundary side. [[offense/positions#Y|Y]] attaches outside of him, into the boundary.
+**Alignment**: On the line, outside the BG, boundary side. [[team/offense/positions#Y (TE)|Y]] attaches outside of him, into the boundary.
 
 ### BG (Boundary Guard)
 

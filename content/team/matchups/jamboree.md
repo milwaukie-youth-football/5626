@@ -1,5 +1,5 @@
 ---
-title: Jamboree
+title: 2026-08-29 Jamboree
 ---
 
 **Saturday, August 29** at Clackamas HS.

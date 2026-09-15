@@ -1,10 +1,13 @@
 # 5626 (Quartz site) - project instructions
 
-## Practice plans: always give the local URL
+## ALWAYS give the local URL, every response, no exceptions
 
-Whenever a practice plan file under `content/team/practice/` is created or
-edited, end the response with its local preview URL. No exceptions, don't
-wait to be asked.
+Every single response in this repo, whether or not a file changed this turn,
+ends with the local preview URL for the relevant page (or the site root if
+nothing specific applies). This is non-negotiable and has been missed before -
+do not miss it again. No exceptions, don't wait to be asked, don't reason
+your way out of it because "nothing changed" or "this file type isn't a
+practice plan."
 
 - Dev server: Quartz's own (`npx quartz build --serve`), NOT a generic static
   file server.
